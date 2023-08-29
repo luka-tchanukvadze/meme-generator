@@ -1,1 +1,1 @@
-live version: https://meme-generator-umber-eight.vercel.app/
+live version: https://react-meme-generator-self.vercel.app/

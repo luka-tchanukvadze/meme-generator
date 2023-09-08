@@ -101,3 +101,29 @@ main {
 .top {
   top: 0;
 }
+
+
+@media(max-width: 438px){
+  .header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+
+  main{
+    margin-top: 5rem;
+    padding: 0;
+
+  }
+
+  .meme--image{
+    min-width: 355px;
+    object-fit: cover;
+  }
+
+  .meme--text{
+    font-size: 20px;
+    width: 100%;
+  }
+}
